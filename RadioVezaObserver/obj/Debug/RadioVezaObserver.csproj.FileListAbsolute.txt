@@ -1,0 +1,5 @@
+E:\Programs\DesingPatterns\RadioVezaObserver\RadioVezaObserver\bin\Debug\RadioVezaObserver.exe.config
+E:\Programs\DesingPatterns\RadioVezaObserver\RadioVezaObserver\bin\Debug\RadioVezaObserver.exe
+E:\Programs\DesingPatterns\RadioVezaObserver\RadioVezaObserver\bin\Debug\RadioVezaObserver.pdb
+E:\Programs\DesingPatterns\RadioVezaObserver\RadioVezaObserver\obj\Debug\RadioVezaObserver.exe
+E:\Programs\DesingPatterns\RadioVezaObserver\RadioVezaObserver\obj\Debug\RadioVezaObserver.pdb
